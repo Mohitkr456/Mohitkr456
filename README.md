@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Mohit👋
 
 <!--
 **Mohitkr456/Mohitkr456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👀 I’m interested in Finance, Gaming, and Data Analysis.
+
+🌱 I’m currently learning Data Analysis and Portfolio Managment.
+
+📫 How to reach me: mail me at mohitk.47514@gmail.com
+
+
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohitkr456&show_icons=true&theme=radical)
